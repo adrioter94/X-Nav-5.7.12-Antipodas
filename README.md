@@ -1,3 +1,5 @@
 Ejercicio 5.7.12: Las antípodas
 
-<a href="http://cursosweb.github.io/X-Nav-5.7.12-Antipodas/">Enlace al ejercicio</a> (recuerda actualizarlo a tu cuenta de GitHub)
+## Try Me
+
+[Try Me!](https://adrioter94.github.io/X-Nav-5.7.12-Antipodas/5-7-12.html)
